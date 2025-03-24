@@ -20,7 +20,6 @@ export class PrismaStudentMapper {
       name: student.name,
       email: student.email,
       password: student.password,
-      role: student.
     }
   }
 }
